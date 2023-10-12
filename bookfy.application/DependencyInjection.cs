@@ -1,6 +1,8 @@
-﻿using bookfy.domain.Bookings;
+﻿using bookfy.application.Abstractions.Behaviors;
+using bookfy.domain.Bookings;
 using Microsoft.Extensions.DependencyInjection;
-using System.Runtime.CompilerServices;
+using FluentValidation;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 
 namespace bookfy.application
 {
@@ -11,9 +13,12 @@ namespace bookfy.application
             services.AddMediatR(configuration =>
             {
                 configuration.RegisterServicesFromAssemblies(typeof(DependencyInjection).Assembly);
+                configuration.AddBehavior(typeof(LogginBehavior<,>));
+                configuration.AddBehavior(typeof(ValidationBehavior<,>));
             });
 
-            services.AddTransient<PriceService>();
+            // services.AddValidatorsFromAssembly(typeof(DependencyInjection).Assembly); corrigir referencia
+            services.AddTransient<PricingService>();
 
             return services;
         }

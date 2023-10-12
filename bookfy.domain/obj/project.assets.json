@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj",
+      "projectUniqueName": "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj",
       "projectName": "bookfy.domain",
-      "projectPath": "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj",
+      "projectPath": "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj",
       "packagesPath": "C:\\Users\\jnath\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\bookfy\\bookfy.domain\\obj\\",
+      "outputPath": "C:\\GitHub\\clean-architecture\\bookfy.domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

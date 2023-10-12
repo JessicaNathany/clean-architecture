@@ -59,7 +59,7 @@ namespace bookfy.domain.Bookings
             Guid userId, 
             DateRange duration, 
             DateTime utcNow, 
-            PriceService priceService)
+            PricingService priceService)
         {
             var pricingDetails = priceService.CalculatePrice(apartament, duration);
 
