@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8CiuGZJvh7MCMe0whJtsamehkWoAElijN02Ny7npvZHKzBbvTVgv26zCnrHdAxBgwvM56OsDSgZfDbVimMBaSw==",
+  "dgSpecHash": "fIJdmbmtUHgIPgfou1W6qrx55+IjsO5uUgPD8zknGw6z6BiGfO4m29+byZLT1FPPbh+QCjVyffbPWSTbW3sJYA==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj",
+  "projectFilePath": "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

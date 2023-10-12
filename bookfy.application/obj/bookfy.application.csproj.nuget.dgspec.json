@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\bookfy\\bookfy.application\\bookfy.application.csproj": {}
+    "C:\\GitHub\\clean-architecture\\bookfy.application\\bookfy.application.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\bookfy\\bookfy.application\\bookfy.application.csproj": {
+    "C:\\GitHub\\clean-architecture\\bookfy.application\\bookfy.application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\bookfy\\bookfy.application\\bookfy.application.csproj",
+        "projectUniqueName": "C:\\GitHub\\clean-architecture\\bookfy.application\\bookfy.application.csproj",
         "projectName": "bookfy.application",
-        "projectPath": "C:\\GitHub\\bookfy\\bookfy.application\\bookfy.application.csproj",
+        "projectPath": "C:\\GitHub\\clean-architecture\\bookfy.application\\bookfy.application.csproj",
         "packagesPath": "C:\\Users\\jnath\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\bookfy\\bookfy.application\\obj\\",
+        "outputPath": "C:\\GitHub\\clean-architecture\\bookfy.application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj": {
-                "projectPath": "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj"
+              "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj": {
+                "projectPath": "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj"
               }
             }
           }
@@ -47,9 +47,21 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
             }
           },
           "imports": [
@@ -72,14 +84,14 @@
         }
       }
     },
-    "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj": {
+    "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj",
+        "projectUniqueName": "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj",
         "projectName": "bookfy.domain",
-        "projectPath": "C:\\GitHub\\bookfy\\bookfy.domain\\bookfy.domain.csproj",
+        "projectPath": "C:\\GitHub\\clean-architecture\\bookfy.domain\\bookfy.domain.csproj",
         "packagesPath": "C:\\Users\\jnath\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\bookfy\\bookfy.domain\\obj\\",
+        "outputPath": "C:\\GitHub\\clean-architecture\\bookfy.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
