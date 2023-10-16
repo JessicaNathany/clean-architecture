@@ -10,3 +10,8 @@ C:\GitHub\clean-architecture\bookfy.infrastructure\obj\Debug\net7.0\bookfy.infra
 C:\GitHub\clean-architecture\bookfy.infrastructure\obj\Debug\net7.0\refint\bookfy.infrastructure.dll
 C:\GitHub\clean-architecture\bookfy.infrastructure\obj\Debug\net7.0\bookfy.infrastructure.pdb
 C:\GitHub\clean-architecture\bookfy.infrastructure\obj\Debug\net7.0\ref\bookfy.infrastructure.dll
+C:\GitHub\clean-architecture\bookfy.infrastructure\bin\Debug\net7.0\bookfy.application.dll
+C:\GitHub\clean-architecture\bookfy.infrastructure\bin\Debug\net7.0\bookfy.domain.dll
+C:\GitHub\clean-architecture\bookfy.infrastructure\bin\Debug\net7.0\bookfy.application.pdb
+C:\GitHub\clean-architecture\bookfy.infrastructure\bin\Debug\net7.0\bookfy.domain.pdb
+C:\GitHub\clean-architecture\bookfy.infrastructure\obj\Debug\net7.0\bookfy.infrastructure.csproj.CopyComplete
