@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fNPeUSbH76c2d3882W65+1jLNoluDDqTjIeAV9+gNbGhbZ/ePs+I+HStPASNoCgpO6AIkZEZajwjK1aUL5y6VQ==",
+  "dgSpecHash": "90CjsXmlJ1XKjfQCbZqmA2dDNnWthRYggnKLKlQbLBV/UVp6GVa45n3fDo/Xpv3tlFKstFYcBBrDP/h4sgUjkg==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\clean-architecture\\bookfy.infrastructure\\bookfy.infrastructure.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\jnath\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\jnath\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\jnath\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

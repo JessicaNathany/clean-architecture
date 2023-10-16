@@ -1,13 +1,7 @@
-﻿using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-
-namespace bookfy.infrastructure
+﻿namespace bookfy.infrastructure
 {
-    public static  class DependencyInjection
+    public class Class1
     {
-        public static IServiceCollection AddDependencies(IServiceCollection services, IConfiguration configuration)
-        {
-            return services;
-        }
+
     }
 }
