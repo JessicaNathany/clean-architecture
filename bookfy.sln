@@ -9,7 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{BF0A0A74-6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookfy.domain", "bookfy.domain\bookfy.domain.csproj", "{0739BB96-2865-42AE-90AA-F6E2FD8B2EE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookfy.application", "bookfy.application\bookfy.application.csproj", "{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookfy.application", "bookfy.application\bookfy.application.csproj", "{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookfy.infrastructure", "bookfy.infrastructure\bookfy.infrastructure.csproj", "{F92B5104-7F3A-4D9D-BF81-C15BA38A5F74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92B5104-7F3A-4D9D-BF81-C15BA38A5F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92B5104-7F3A-4D9D-BF81-C15BA38A5F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92B5104-7F3A-4D9D-BF81-C15BA38A5F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92B5104-7F3A-4D9D-BF81-C15BA38A5F74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0739BB96-2865-42AE-90AA-F6E2FD8B2EE3} = {0CB85A26-939B-4841-9366-9298F613C133}
 		{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A} = {0CB85A26-939B-4841-9366-9298F613C133}
+		{F92B5104-7F3A-4D9D-BF81-C15BA38A5F74} = {0CB85A26-939B-4841-9366-9298F613C133}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {62C4DA70-A00C-43DD-89FC-0616FC8261CE}
