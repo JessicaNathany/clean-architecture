@@ -1,0 +1,12 @@
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\bookfy.domain.csproj.AssemblyReference.cache
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\bookfy.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\bookfy.domain.AssemblyInfoInputs.cache
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\bookfy.domain.AssemblyInfo.cs
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\bookfy.domain.csproj.CoreCompileInputs.cache
+C:\GitHub\clean-architecture\bookfy.domain\bin\Debug\net7.0\bookfy.domain.deps.json
+C:\GitHub\clean-architecture\bookfy.domain\bin\Debug\net7.0\bookfy.domain.dll
+C:\GitHub\clean-architecture\bookfy.domain\bin\Debug\net7.0\bookfy.domain.pdb
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\bookfy.domain.dll
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\refint\bookfy.domain.dll
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\bookfy.domain.pdb
+C:\GitHub\clean-architecture\bookfy.domain\obj\Debug\net7.0\ref\bookfy.domain.dll
