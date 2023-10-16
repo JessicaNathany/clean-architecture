@@ -1,0 +1,15 @@
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.csproj.AssemblyReference.cache
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.AssemblyInfoInputs.cache
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.AssemblyInfo.cs
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.csproj.CoreCompileInputs.cache
+C:\GitHub\clean-architecture\bookfy.application\bin\Debug\net7.0\bookfy.application.deps.json
+C:\GitHub\clean-architecture\bookfy.application\bin\Debug\net7.0\bookfy.application.dll
+C:\GitHub\clean-architecture\bookfy.application\bin\Debug\net7.0\bookfy.application.pdb
+C:\GitHub\clean-architecture\bookfy.application\bin\Debug\net7.0\bookfy.domain.dll
+C:\GitHub\clean-architecture\bookfy.application\bin\Debug\net7.0\bookfy.domain.pdb
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.csproj.CopyComplete
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.dll
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\refint\bookfy.application.dll
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\bookfy.application.pdb
+C:\GitHub\clean-architecture\bookfy.application\obj\Debug\net7.0\ref\bookfy.application.dll
