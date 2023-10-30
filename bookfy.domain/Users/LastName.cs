@@ -1,4 +1,4 @@
 ﻿namespace bookfy.domain.Users
 {
-    public record LastName(string value);
+    public record LastName(string Value);
 }

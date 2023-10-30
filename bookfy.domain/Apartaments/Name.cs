@@ -1,4 +1,4 @@
 ﻿namespace bookfy.domain.Apartaments
 {
-    public record Name(string value);
+    public record Name(string Value);
 }
