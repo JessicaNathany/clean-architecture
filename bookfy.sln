@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookfy.domain", "bookfy.dom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookfy.application", "bookfy.application\bookfy.application.csproj", "{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookfy.infrastructure", "bookfy.infrastructure\bookfy.infrastructure.csproj", "{411CC02E-8B44-46D7-B207-8E6521BFDA17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bookfy.infrastructure", "bookfy.infrastructure\bookfy.infrastructure.csproj", "{411CC02E-8B44-46D7-B207-8E6521BFDA17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookfy.api", "bookfy.api\bookfy.api.csproj", "{8C3F5A99-51F6-443A-B19D-85B5D8FD0A3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{411CC02E-8B44-46D7-B207-8E6521BFDA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{411CC02E-8B44-46D7-B207-8E6521BFDA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{411CC02E-8B44-46D7-B207-8E6521BFDA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3F5A99-51F6-443A-B19D-85B5D8FD0A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3F5A99-51F6-443A-B19D-85B5D8FD0A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3F5A99-51F6-443A-B19D-85B5D8FD0A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3F5A99-51F6-443A-B19D-85B5D8FD0A3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{0739BB96-2865-42AE-90AA-F6E2FD8B2EE3} = {0CB85A26-939B-4841-9366-9298F613C133}
 		{D7507E0C-6CCA-4AC2-B68E-6447BC7C4F7A} = {0CB85A26-939B-4841-9366-9298F613C133}
 		{411CC02E-8B44-46D7-B207-8E6521BFDA17} = {0CB85A26-939B-4841-9366-9298F613C133}
+		{8C3F5A99-51F6-443A-B19D-85B5D8FD0A3A} = {0CB85A26-939B-4841-9366-9298F613C133}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {62C4DA70-A00C-43DD-89FC-0616FC8261CE}

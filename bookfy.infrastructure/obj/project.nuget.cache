@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O0yOv0FaT3CtzA+oLhc6OjeuI4yKsV1ACqge0kdh56BtNwJA/DVwT/FYx2N/AYeRjIWS8QxJ4raYu781zz/6FA==",
+  "dgSpecHash": "Xu5m1lHnmHVFlNhy/Ye/RUpu57WOWcJba/Lr8bgN9w1n9ufOJkQmS4hFLoZ6jFVNcfT3Kmkdv0sFtGsVaC9XEg==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\clean-architecture\\bookfy.infrastructure\\bookfy.infrastructure.csproj",
   "expectedPackageFiles": [
